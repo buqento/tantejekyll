@@ -1,0 +1,25 @@
+---
+layout: default
+title: hello World
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Jekyll Bootstrap Starter</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <div class="container">
+
+    <h1 class="mt-4 display-4 text-primary">{{ site.posts.last.title }}</h1>
+    <small class="text-secondary">{{ site.posts.last.date | date: "%A, %B %-d, %Y" }}</small>
+    <hr>
+    {{ site.posts.last.content }}
+  </div>
+</body>
+
+</html>
