@@ -1,28 +1,18 @@
 <hr>
 <div class="row">
     <div class="col-4">
+        <h2>Kategori</h2>
         {% for categories in site.categories %}
         <li>
             <a href="/{{ categories[0] }}">{{ categories[0] }}</a>
         </li>
         {% endfor %}
-
-    </div>
-
-
-    <div class="col-8">
-        <ul>
-            {% for post in site.posts %}
-            <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-            </li>
-            {% endfor %}
-        </ul>
-
     </div>
 </div>
 
 <div class="mt-4 mb-4">
     <hr>
-    &copy; tantekos.com
+    &copy; Mega Property Indonesia
+    <br>
+    <small>Powered by bvqento</small>
 </div>
