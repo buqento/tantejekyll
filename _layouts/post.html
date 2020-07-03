@@ -20,17 +20,9 @@
 
   <div class="container">
 
-    <nav class="mt-4" aria-label="breadcrumb">
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="/categories">kategori</a></li>
-        <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
-      </ol>
-    </nav>
+    <h2 class="mt-4">{{ page.title }}</h2>
 
-    <h1 class="mt-4 display-4 text-primary">{{ page.title }}</h1>
-
-    <small class="text-secondary">{{ page.date | date: "%A, %B %-d, %Y" }}</small>
+    <small class="text-secondary">{{ page.date | date: "%m/%d/%Y" }}</small>
     <hr>
     <div>
 
@@ -48,7 +40,7 @@
       {{ content }}
 
       <hr>
-      <h2>Lainnya</h2>
+      <h4>Lainnya</h4>
       <div>
         <ul>
           {% for post in site.posts %}

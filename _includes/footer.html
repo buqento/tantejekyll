@@ -1,18 +1,27 @@
 <hr>
-<div class="row">
-    <div class="col-4">
-        <h2>Kategori</h2>
-        {% for categories in site.categories %}
-        <li>
-            <a href="/{{ categories[0] }}">{{ categories[0] }}</a>
-        </li>
-        {% endfor %}
+<div class="container">
+    <div class="row">
+        <div>
+            <!-- <h4>Tags</h4> -->
+            <!-- {% for tags in site.tags %} -->
+            <!-- <li> -->
+            <!-- - <a href="/{{ tags[0] }}">{{ tags[0] }}</a> -->
+            <!-- </li> -->
+            <!-- {% endfor %} -->
+        </div>
     </div>
-</div>
+    <div class="row">
+        <div>
+            {% for categories in site.categories %}
+            - <a href="/{{ categories[0] }}">{{ categories[0] }}</a>
+            {% endfor %}
+        </div>
+    </div>
 
+</div>
 <div class="mt-4 mb-4">
     <hr>
-    &copy; Mega Property Indonesia
+    &copy; Tantekos Property Indonesia
     <br>
     <small>Powered by bvqento</small>
 </div>

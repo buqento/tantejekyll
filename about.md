@@ -3,5 +3,5 @@ layout: default
 title: About
 ---
 ## About
-Tantekos.com adalah layanan informasi online sewa rumah, kost, kontrakan
+Tantekos.com memberikan layanan informasi sewa rumah, kost, dan kontrakan.
 

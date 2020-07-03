@@ -13,12 +13,24 @@ title: TANTEKOS
 </head>
 
 <body>
-  <div class="container">
+  <div>
 
-    <h1 class="mt-4 display-4 text-primary">{{ site.posts.last.title }}</h1>
-    <small class="text-secondary">{{ site.posts.last.date | date: "%A, %B %-d, %Y" }}</small>
+    <h2 class="mt-4">{{ site.posts.last.title }}</h2>
+    <small class="text-secondary">{{ site.posts.last.date | date: "%m/%d/%Y" }}</small>
     <hr>
+
     {{ site.posts.last.content }}
+    <hr>
+    <h4>Lainnya</h4>
+    <div>
+      <ul>
+        {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
   </div>
 </body>
 
