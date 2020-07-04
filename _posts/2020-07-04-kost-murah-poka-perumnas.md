@@ -5,8 +5,9 @@ date:   2020-07-04 06:10:19 +0700
 categories: kos
 tag: Poka
 image: https://i.imgur.com/RF53QQ2.png
-
+description: "Kost murah dan nyaman berlokasi Poka (Kompleks perumnas) gapura pertama jalan lurus sebelum gereja."
 ---
+
 <div class="mb-4">
 <image src="https://i.imgur.com/RF53QQ2.png" class="img-fluid" />
 </div>

@@ -5,8 +5,9 @@ date:   2020-07-04 06:10:19 +0700
 categories: kos
 tag: Waiheru
 image: https://i.imgur.com/FwByg50.png
-
+description: "Kost murah dan nyaman berlokasi di Waiheru. Ramah lingkungan, aman, dan bersih."
 ---
+
 <div class="mb-4">
 <image src="https://i.imgur.com/FwByg50.png" class="img-fluid" />
 </div>

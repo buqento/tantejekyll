@@ -5,8 +5,9 @@ date:   2020-07-04 06:10:19 +0700
 categories: kos
 tag: Passo
 image: https://i.imgur.com/2pvjjiS.png
-
+description: "Kos murah berlokasi di passo, wilayah Wara, lorong pica botol."
 ---
+
 <div class="mb-4">
 <image src="https://i.imgur.com/2pvjjiS.png" class="img-fluid" />
 </div>
