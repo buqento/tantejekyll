@@ -4,6 +4,7 @@ title:  "Kos Vivi Silale"
 date:   2020-07-04 06:10:19 +0700
 categories: kos
 tag: Silale
+image: https://i.imgur.com/G9gOh82.png
 ---
 <div class="mb-4">
 <image src="https://i.imgur.com/G9gOh82.png" class="img-fluid" />
