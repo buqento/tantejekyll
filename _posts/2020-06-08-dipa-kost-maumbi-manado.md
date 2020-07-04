@@ -4,6 +4,8 @@ title:  "Dipa Kos Maumbi Manado"
 date:   2020-06-08 17:10:19 +0700
 categories: kos
 tag: Manado
+image: https://i.imgur.com/2bcbhfX.png
+
 ---
 <div class="mb-4">
 <image src="https://i.imgur.com/2bcbhfX.png" class="img-fluid" />

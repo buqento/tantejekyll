@@ -4,6 +4,8 @@ title:  "Kos murah dan nyaman Waiheru"
 date:   2020-07-04 06:10:19 +0700
 categories: kos
 tag: Waiheru
+image: https://i.imgur.com/FwByg50.png
+
 ---
 <div class="mb-4">
 <image src="https://i.imgur.com/FwByg50.png" class="img-fluid" />

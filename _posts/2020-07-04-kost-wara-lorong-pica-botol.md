@@ -4,6 +4,8 @@ title:  "Kos wilayah Wara, lorong pica botol"
 date:   2020-07-04 06:10:19 +0700
 categories: kos
 tag: Passo
+image: https://i.imgur.com/2pvjjiS.png
+
 ---
 <div class="mb-4">
 <image src="https://i.imgur.com/2pvjjiS.png" class="img-fluid" />

@@ -4,6 +4,8 @@ title:  "Kos murah dan nyaman berlokasi di Poka (Kompleks perumnas)"
 date:   2020-07-04 06:10:19 +0700
 categories: kos
 tag: Poka
+image: https://i.imgur.com/RF53QQ2.png
+
 ---
 <div class="mb-4">
 <image src="https://i.imgur.com/RF53QQ2.png" class="img-fluid" />

@@ -4,6 +4,8 @@ title:  "Rumah siap huni Suli Atas"
 date:   2020-06-08 17:10:19 +0700
 categories: kontrakan
 tag: Suli
+image: https://i.imgur.com/cJqtSG5.png
+
 ---
 <div class="mb-4">
 <image src="https://i.imgur.com/cJqtSG5.png" class="img-fluid" />
