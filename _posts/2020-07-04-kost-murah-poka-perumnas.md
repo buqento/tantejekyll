@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Kost murah dan nyaman berlokasi di Poka (Kompleks perumnas)"
+title:  "Kos murah dan nyaman berlokasi di Poka (Kompleks perumnas)"
 date:   2020-07-04 06:10:19 +0700
-categories: kost
-tag: Waiheru
+categories: kos
+tag: Poka
 ---
 <div class="mb-4">
 <image src="https://i.imgur.com/RF53QQ2.png" class="img-fluid" />

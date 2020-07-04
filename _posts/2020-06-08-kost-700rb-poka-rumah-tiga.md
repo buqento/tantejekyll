@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Kost 700rb poka rumah tiga"
+title:  "Kos 700rb poka rumah tiga"
 date:   2020-06-08 17:10:19 +0700
-categories: kost
-tag: poka
+categories: kos
+tag: Poka
 ---
 <div class="mb-4">
 <image src="https://i.imgur.com/UmvfXog.png" class="img-fluid" />

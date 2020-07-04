@@ -2,8 +2,8 @@
 layout: post
 title:  "Kos wilayah Wara, lorong pica botol"
 date:   2020-07-04 06:10:19 +0700
-categories: kost
-tag: Waiheru
+categories: kos
+tag: Passo
 ---
 <div class="mb-4">
 <image src="https://i.imgur.com/2pvjjiS.png" class="img-fluid" />

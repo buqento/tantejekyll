@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Kost murah dan nyaman Waiheru"
+title:  "Kos murah dan nyaman Waiheru"
 date:   2020-07-04 06:10:19 +0700
-categories: kost
+categories: kos
 tag: Waiheru
 ---
 <div class="mb-4">
