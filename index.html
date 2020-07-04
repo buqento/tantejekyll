@@ -15,11 +15,10 @@ title: TANTEKOS
 <body>
   <div>
 
-    <h2 class="mt-4">{{ site.posts.last.title }}</h2>
-    <small class="text-secondary">{{ site.posts.last.date | date: "%m/%d/%Y" }}</small>
+    <h2 class="mt-4">{{ site.posts.first.title }}</h2>
+    <small class="text-secondary">{{ site.posts.first.date | date: "%m/%d/%Y" }}</small>
     <hr>
-
-    {{ site.posts.last.content }}
+    {{ site.posts.first.content }}
     <hr>
     <h4>Lainnya</h4>
     <div>
