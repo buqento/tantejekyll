@@ -20,4 +20,4 @@ Kost murah berlokasi di wilayah Poka Rumah Tiga. Biaya sewa Rp 700.000 / bulan s
 - Air bersih
 
 #### Kontak
-- Facebook: [azzahra.s.940](https://www.facebook.com/azzahra.s.940 "azzahra.s.940"){:target="_blank"}
+- Facebook: [Az Zahra S](https://www.facebook.com/azzahra.s.940 "Az Zahra S"){:target="_blank"}

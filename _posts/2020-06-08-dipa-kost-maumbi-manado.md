@@ -19,4 +19,4 @@ Dipa Kost Maumbi, lokasi di Manado Sulawesi Utara.
 
 #### Kontak
 - Telepon: 081344558811
-- Facebook: [gracia.ibrahim.9](https://www.facebook.com/gracia.ibrahim.9 "gracia.ibrahim.9"){:target="_blank"}
+- Facebook: [Gracia Ibrahim (Caken M)](https://www.facebook.com/gracia.ibrahim.9 "Gracia Ibrahim (Caken M)"){:target="_blank"}

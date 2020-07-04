@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Kost murah dan nyaman Waiheru"
+date:   2020-07-04 06:10:19 +0700
+categories: kost
+tag: Waiheru
+---
+<div class="mb-4">
+<image src="https://i.imgur.com/FwByg50.png" class="img-fluid" />
+</div>
+
+#### Deskripsi
+Kost murah dan nyaman berlokasi di Waiheru. Ramah lingkungan, aman, dan bersih.
+
+#### Fasilitas
+- Kasur
+- Kamar mandi dalam
+- Air bersih
+
+#### Kontak
+- Facebook: [Ekha Tama Hafidz](https://www.facebook.com/indira.wirahafidz "Ekha Tama Hafidz"){:target="_blank"}

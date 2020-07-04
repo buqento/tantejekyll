@@ -23,4 +23,4 @@ Disewakan sebuah rumah yang siap dihuni berlokasi di Suli Atas (Lokasi Perumahan
 - Ada lahan kosong di bagian belakang rumah
 
 #### Kontak
-- Facebook: [YhaniZoe21](https://www.facebook.com/YhaniZoe21 "YhaniZoe21"){:target="_blank"}
+- Facebook: [Keylen Adinda L (yhanika)](https://www.facebook.com/YhaniZoe21 "Keylen Adinda L (yhanika)"){:target="_blank"}
