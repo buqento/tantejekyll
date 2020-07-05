@@ -23,9 +23,9 @@ title: TANTEKOS
     <h4>Lainnya</h4>
     <div>
       <ul>
-        {% for post in site.posts %}
+        {% for post in site.posts limit: 5 %}
         <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          {{ post.tag }} / <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}
       </ul>

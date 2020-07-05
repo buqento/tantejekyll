@@ -32,19 +32,23 @@
         {% assign categories = page.categories %}
         {% endif %}
         {% for category in categories %}
-        <a href="{{site.baseurl}}/{{category|slugize}}">{{category}}</a>
+        <a href="{{site.baseurl}}/{{category|slugize}}" class="btn btn-outline-primary">{{category}} / {{ page.tag }}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}
       </div>
+      <br>
       {{ content }}
+
+      <!-- <a href="/{{ categories[0] }}" class="btn btn-outline-primary">{{ categories[0] }}</a> -->
+
 
       <hr>
       <h4>Lainnya</h4>
       <div>
         <ul>
-          {% for post in site.posts %}
+          {% for post in site.posts limit:5 %}
           <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            {{ post. tag }} / <a href="{{ post.url }}">{{ post.title }}</a>
           </li>
           {% endfor %}
         </ul>
