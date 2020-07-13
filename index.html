@@ -16,7 +16,7 @@ title: TANTEKOS
   <div>
 
     <h2 class="mt-4">{{ site.posts.first.title }}</h2>
-    <small class="text-secondary">{{ site.posts.first.date | date: "%m/%d/%Y" }}</small>
+    <small class="text-secondary">Update: {{ site.posts.first.date | date_to_string }}</small>
     <hr>
     {{ site.posts.first.content }}
     <hr>
