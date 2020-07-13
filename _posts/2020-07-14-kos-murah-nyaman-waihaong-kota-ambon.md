@@ -19,6 +19,9 @@ Tersedia kos murah dan nyaman (Red Doorz) di Waihaong Kota Ambon. KoolKost Marke
 - Meja belajar
 - Lemari pakaian
 - Kamar mandi dalam
+- Internet
+- AC
+- Air panas
 
 #### Kontak
 - Telepon: 081290804894
