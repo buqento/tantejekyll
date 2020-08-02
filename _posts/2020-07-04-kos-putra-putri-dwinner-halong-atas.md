@@ -25,3 +25,5 @@ Kami menyediakan Kos dengan harga terjangkau dan fasilitas memadai, khusus untuk
 #### Kontak
 - Telepon: 082198999890 / 082198228800
 - Facebook: [Desy Rumalean](https://www.facebook.com/Desy.Kakisina "Desy Rumalean"){:target="_blank"}
+- Facebook: [Karsya Sangadji Munawalemonia](https://www.facebook.com/ulhen.m.karsya "Karsya Sangadji Munawalemonia"){:target="_blank"}
+
