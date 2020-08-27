@@ -47,7 +47,7 @@
       <h4>Lainnya</h4>
       <div>
         <ul>
-          {% for post in site.posts limit:5 %}
+          {% for post in site.posts limit:10 %}
           <li>
             {{ post. tag }} / <a href="{{ post.url }}">{{ post.title }}</a>
           </li>
